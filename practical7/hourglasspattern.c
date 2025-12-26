@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+    //Name-AAYUSH ERP ID -10026
     int n;
     printf("Enter n: ");
     scanf("%d", &n);
@@ -21,3 +22,14 @@ int main() {
     }
     return 0;
 }
+//OUTPUT
+//Enter n:5
+// *********
+//  *******
+//   *****
+//    ***
+//     *
+//    ***
+//   *****
+//  *******
+// *********

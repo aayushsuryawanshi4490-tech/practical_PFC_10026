@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() {
+    //Name-AAYUSH ERPID -10026
     int n;
-    printf("enter a number :");
+    printf("Enter n:");
     scanf("%d",&n);
 
     for(int i = 1; i <= n; i++) {
@@ -14,3 +15,11 @@ int main() {
     }
     return 0;
 }
+//Output
+// Enter n:5
+// A
+// AB
+// ABC
+// ABCD
+// ABCDE
+

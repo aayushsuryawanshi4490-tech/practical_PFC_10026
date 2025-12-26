@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+    //Name-AAYUSH ERPID-10026
     int pin, correctPin = 1234;
 
     printf("Enter ATM PIN: ");
@@ -12,3 +13,6 @@ int main() {
 
     return 0;
 }
+//OUTPUT
+//Enter ATM PIN:4
+//Wrong PIN
